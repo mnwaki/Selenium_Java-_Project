@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="17993" started-at="2017-09-11T20:27:13Z" finished-at="2017-09-11T20:27:31Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="17993" started-at="2017-09-11T20:27:13Z" finished-at="2017-09-11T20:27:31Z">
+      <class name="com.dvla.DVLA">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.dvla.DVLA@998c805]" name="setUp" is-config="true" duration-ms="19797" started-at="2017-09-11T21:26:54Z" finished-at="2017-09-11T21:27:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testVehicleDetails()[pri:0, instance:com.dvla.DVLA@998c805]" name="testVehicleDetails" duration-ms="17956" started-at="2017-09-11T21:27:13Z" finished-at="2017-09-11T21:27:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testVehicleDetails -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.dvla.DVLA@998c805]" name="tearDown" is-config="true" duration-ms="2057" started-at="2017-09-11T21:27:31Z" finished-at="2017-09-11T21:27:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.dvla.DVLA -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
